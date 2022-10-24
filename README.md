@@ -54,7 +54,7 @@ $ php artisan migrate --seed
 $ ./vendor/bin/sail up or docker compose up -d
 ```
 
-8. Open in your browser in port 8080 (because nginx expose port in 8080)
+8. Open in your browser in port 80 
 
 
 Copyright © 2022 by Muhamad Zainal Arifin
